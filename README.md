@@ -1,5 +1,5 @@
 ## Introduction
-<img src="https://user-images.githubusercontent.com/31917400/33782274-f5759f26-dc4f-11e7-95c5-9bbebc1fbaa7.png" />
+<img src="https://user-images.githubusercontent.com/31917400/65374429-a3e38680-dc81-11e9-887a-ce3802f0daa8.jpg" />
 
 __The Complex System:__ 
  - Herbert Simons gives us this definition; "A system that can be analyzed into many components having relatively many relations among them, so that the behavior of each component depends on the behavior of others."
