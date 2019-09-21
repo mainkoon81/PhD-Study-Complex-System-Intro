@@ -18,8 +18,13 @@ __Network Theory:__
  - The connection density(**degree**) or connection pattern(**position**: How things flow in the network) defines the system as opposed to the element's properties. 
 <img src="https://user-images.githubusercontent.com/31917400/65376769-b66ab980-dc9b-11e9-83e2-e2e0b4a37910.jpg" />
 
-
-
+__Adaptation + Self Organization:__
+ - Loosened top-down centralized mechanism for coordinating the whole system
+ - A degree of autonomy that each elements has
+   - Elements can syncrhronize their state locally, resulting in the **emergence of patterns of organization from the bottom up**.
+   - Heterogeneity with high levels of **diversity**!!! such as ..ecosystems...multicultural societies
+   - Being subject to the evolutionary force of Selection & Replication...which makes an **evolution**!!!
+<img src="https://user-images.githubusercontent.com/31917400/65376982-84a72200-dc9e-11e9-81e5-7a8630b82bcd.jpg" />
 
 
 
