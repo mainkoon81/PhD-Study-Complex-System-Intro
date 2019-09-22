@@ -25,7 +25,7 @@ __3.Network:__
 __4.Adaptation + Self Organization:__
  - When a certain degree of **autonomy** that each element has is coupled with the loosened **"top-down centralized mechanism"** for coordinating the whole system, the elements can synchronize their state locally, resulting in the **emergence of the system from the "bottom-up"**...the Agent-based modeling takes the bottom-up approach? 
  - the Game Theory? Cooperation + Competition
- - To model how the system evolves over times, we let them develop and see what happens. We have computers that can simulate this process. This is the "Agent Based Modeling". What macro pattern emerges over time?  
+ - To model how the system evolves over times, we give the small rules to each eleement and let them develop and see what happens. We have computers that can simulate this process. This is the "Agent Based Modeling". What macro pattern emerges over time?  
 
 -> `This is the system of diversity and evolution.`
   - `Heterogeneity` with high levels of **diversity**!!! such as ..ecosystems...multicultural societies
