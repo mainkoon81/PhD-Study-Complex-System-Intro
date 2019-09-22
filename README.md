@@ -5,8 +5,9 @@
 __1.Systems within a System:__ 
  - Herbert Simons gives us this definition; "A system that can be analyzed into many components having relatively many relations among them, so that the behavior of each component depends on the behavior of others."
  - Jerome Singer tells us; "A system that involves **numerous interacting agents** whose aggregate behaviors are to be understood. **`Such aggregate activity is nonlinear`**, hence it cannot simply be derived from summation of individual components behavior."
+ - the Emergence Theory? Put things together...Something emerges. The emergence is the special phenomenon that results from the interaction of mutiple elements. Walking is the emergence. It's not about double hopping of two legs. It's a synergistic interaction between two legs. 
 
--> `Elements are nested inside of subsystems (Multi-dimensional property) and many elements on many different scales with all of these levels affecting each other.` 
+-> `Elements are nested inside of subsystems (Multi-dimensional property) and many elements on many different scales with all of these levels affecting each other.` How relationship between multiple parts give rise to the **collective behaviors** of a system ? 
 <img src="https://user-images.githubusercontent.com/31917400/65376419-6f7ac500-dc97-11e9-889f-215a08fda75a.jpg" />
 
 __2.Nonlinearity + Chaos:__
@@ -22,15 +23,18 @@ __3.Network:__
 <img src="https://user-images.githubusercontent.com/31917400/65376769-b66ab980-dc9b-11e9-83e2-e2e0b4a37910.jpg" />
 
 __4.Adaptation + Self Organization:__
- - When a certain degree of **autonomy** that each element has is coupled with the loosened **"top-down centralized mechanism"** for coordinating the whole system, the elements can synchronize their state locally, resulting in the **emergence of the system from the "bottom-up"**.
+ - When a certain degree of **autonomy** that each element has is coupled with the loosened **"top-down centralized mechanism"** for coordinating the whole system, the elements can synchronize their state locally, resulting in the **emergence of the system from the "bottom-up"**...the Agent-based modeling takes the bottom-up approach? 
  - the Game Theory? Cooperation + Competition
+ - To model how the system evolves over times, we let them develop and see what happens. We have computers that can simulate this process. This is the "Agent Based Modeling". What macro pattern emerges over time?  
 
 -> `This is the system of diversity and evolution.`
   - `Heterogeneity` with high levels of **diversity**!!! such as ..ecosystems...multicultural societies
   - `Being subject to the evolutionary force` of Selection & Replication...which makes an **evolution**!!!
 <img src="https://user-images.githubusercontent.com/31917400/65376982-84a72200-dc9e-11e9-81e5-7a8630b82bcd.jpg" />
 
-###  `Complexity Theory as a generic framework for modeling is the composite of the four perspectives discussed above.`    
+Complexity Theory as a generic framework for modeling is the composite of the four perspectives discussed above.
+
+
 
 
 
