@@ -30,7 +30,7 @@ __4.Adaptation + Self Organization:__
   - `Being subject to the evolutionary force` of Selection & Replication...which makes an **evolution**!!!
 <img src="https://user-images.githubusercontent.com/31917400/65376982-84a72200-dc9e-11e9-81e5-7a8630b82bcd.jpg" />
 
-### > Complexity Theory as a generic framework for modeling is the composite of the four perspectives discussed above.    
+###  `Complexity Theory as a generic framework for modeling is the composite of the four perspectives discussed above.`    
 
 
 
