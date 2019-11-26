@@ -34,6 +34,22 @@ __4.Adaptation + Self Organization:__
 
 Complexity Theory as a generic framework for modeling is the composite of the four perspectives discussed above.
 
+## Network Analysis
+<img src="https://user-images.githubusercontent.com/31917400/69678662-1ddb2600-109e-11ea-93f9-dbcd9801e3e8.jpg" />
+
+ - Undirected: `Graph01 = nx.Graph()`
+ - Directed: `Graph01 = nx.DiGraph()`
+ - Multiple relation: `Graph01 = nx.MultiGraph()`
+```
+import networkx as nx
+Graph01 = nx.Graph()
+
+Graph01.add_node("A")
+Graph01.add_nodes_from(["B","C"])
+Graph01.add_edge('A', 'B', weight=2, sign="+", relation="friend")
+Graph01.add_edge('B', 'C', weight=6, sign="-", relation="enemy")
+```
+
 
 
 
