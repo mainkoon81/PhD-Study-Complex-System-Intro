@@ -34,6 +34,7 @@ __4.Adaptation + Self Organization:__
 
 Complexity Theory as a generic framework for modeling is the composite of the four perspectives discussed above.
 
+---------------------------------------------------------------------------------------------------------------
 ## Network Analysis
 <img src="https://user-images.githubusercontent.com/31917400/69678662-1ddb2600-109e-11ea-93f9-dbcd9801e3e8.jpg" />
 
@@ -50,6 +51,14 @@ Graph01.add_edge('A', 'B', weight=2, sign="+", relation="friend")
 Graph01.add_edge('B', 'C', weight=6, sign="-", relation="enemy")
 ```
 
+## How do `individual interactions` aggregate to produce `collective behavior`?  
+<img src="https://user-images.githubusercontent.com/31917400/69735709-144ad000-1129-11ea-815b-e9c9adb9d2f6.jpg" />
+
+> What does Individial Interaction generate?
+ - Patterns of segregation
+ - Patterns of inequality
+ - Emergence of collective movement
+ - Norms that change across time?
 
 
 
