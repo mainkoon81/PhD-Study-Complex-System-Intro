@@ -73,7 +73,14 @@ Graph01.add_edge('B', 'C', weight=6, sign="-", relation="enemy")
    - We build a system by giving individuals rules and observing the outcome. 
 
 ### A. Thomas Schelling’s Segregation Model 
-As the first Agent-Based Model Approach, Thomas Schelling was asking, where does segregation come from, and how can we prevent it? racism? unfair housing practices? But we also have this intuition that individuals produce that phenomenon: Individuals have preferences! What if we removed all those forces? What if we got rid of all those traditional explanations of where segregation comes from? Is there anything else that could drive us to that conclusion? What Schelling wanted to do, was to ask the question about the fundamental origins of where segregation comes from. And what the kinds of mechanisms are there that can bring it about.
+As the first Agent-Based Model Approach, Thomas Schelling was asking, where does segregation come from, and how can we prevent it? racism? unfair housing practices? But we also have this intuition that individuals produce that phenomenon: Individuals have preferences! What if we removed all those forces? What if we got rid of all those traditional explanations of where segregation comes from? Is there anything else that could drive us to that conclusion? What Schelling wanted to do, was to ask the question about the fundamental origins of where segregation comes from. And what the kinds of mechanisms are there that can bring it about. **What the collective pattern of settlement would be in terms of a segregated/integrated society?**  Asking counterfactual question!
+ - focus on each individual!
+ - If we were to remove some important factors such as history, job location, etc. would it still be possible to generate similar outcomes?
+ - An agent-based model allows us to test whether a set of conditions or parameters are sufficient to produce a certain outcome.
+ - This project models the behavior of two types of agents in a neighborhood. The <orange> agents and <blue> agents get along with one another. But each agent wants to make sure that it lives near some of “its own.” The simulation shows how these individual preferences ripple through the neighborhood, leading to large-scale patterns. This project was inspired by Thomas Schelling’s writings about social systems (such as housing patterns in cities).
+ 
+### B. Diffusion in small worlds
+The network science thinks about how the structure of interactions affects that diffusion process. How information and behavior can spread through society? 
 
 
 
