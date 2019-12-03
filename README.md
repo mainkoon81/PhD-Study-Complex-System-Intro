@@ -82,8 +82,6 @@ Thomas Schelling was asking, where does segregation come from, and how can we pr
  - This project models the behavior of two types of agents in a neighborhood. The <orange> agents and <blue> agents get along with one another. But each agent wants to make sure that it lives near some of “its own.” The simulation shows how these individual preferences ripple through the neighborhood, leading to large-scale patterns. 
  
 ### EX_2. Network Model
-<img src="https://user-images.githubusercontent.com/31917400/70067714-9c781c00-15e6-11ea-8f84-866dbc2c09f4.jpg" />
-
 What drives diffusion? The network science thinks about how the **structure of interactions** affects that `diffusion process`. How information and behavior can spread through system? The **theories of "virality"** focuses on the `quality of the idea or item` to be diffused as an explanation for why some contagions spread and why others don’t. In contrast, the network model gives an idea that **`variations`, the pattern of who-is-connected-to-whom** can explain why some contagions succeed while others fail. How can we operationalize it in a systematical way? The network science starts from **"graph theory"**(node and edge) which focuses on `ties`(edge) and `vertex`(individual node) between people. We trace the series of steps the thing takes and spread over the network. 
  - rumor, brain, transportation network, etc.
  - Spreading is governed by the shape of the network!!
