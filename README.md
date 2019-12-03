@@ -82,7 +82,31 @@ Thomas Schelling was asking, where does segregation come from, and how can we pr
  - This project models the behavior of two types of agents in a neighborhood. The <orange> agents and <blue> agents get along with one another. But each agent wants to make sure that it lives near some of “its own.” The simulation shows how these individual preferences ripple through the neighborhood, leading to large-scale patterns. 
  
 ### EX_2. Network Model
-The network science thinks about how the structure of interactions affects that diffusion process. How information and behavior can spread through society? 
+<img src="https://user-images.githubusercontent.com/31917400/70067714-9c781c00-15e6-11ea-8f84-866dbc2c09f4.jpg" />
+
+What drives diffusion? The network science thinks about how the **structure of interactions** affects that `diffusion process`. How information and behavior can spread through system? The **theories of "virality"** focuses on the `quality of the idea or item` to be diffused as an explanation for why some contagions spread and why others don’t. In contrast, the network model gives an idea that **`variations`, the pattern of who-is-connected-to-whom** can explain why some contagions succeed while others fail. How can we operationalize it in a systematical way? The network science starts from **"graph theory"**(node and edge) which focuses on `ties`(edge) and `vertex`(individual node) between people. We trace the series of steps the thing takes and spread over the network. 
+ - rumor, brain, transportation network, etc.
+ - Spreading is governed by the shape of the network!!
+ - voting activities can be an example of a thing that spreads through networks because people’s likelihood of participating increases as more of their `peers` participate and participation is determined not only by psychological dispositions, but by `peer` influences.
+
+### > Types of Simple Network
+ - __Lattice Graph(Spatial Network)__ Hardware network?
+   <img src="https://user-images.githubusercontent.com/31917400/70074574-e2d37800-15f2-11ea-972b-4da5f12a4855.jpg" />
+   
+   - 1D Lattice cares immediate adjacency(next door) or something farther(more doors down).  
+   - 2D Lattice cares 8 entities(up,down,left,right + 4 corners).
+   - `High Clustering` Coefficient
+     - high clustering: two randomly selected contacts are likely to have a lot of neighbors in common
+ - __Random Graph__ software network?
+   <img src="https://user-images.githubusercontent.com/31917400/70075714-3e066a00-15f5-11ea-8727-9ace6917af5b.jpg" />
+   
+   - Shorter Average Path Length
+     - In Lattice Graph, if you randomly select two nodes that are far apart from each other, it will require a lot of hops across each edge in order to connect(message) one node to another node. In Random Graph, the average path length between two randomly selected nodes is very small, taking only a few hops to get from any node to any other node in the network.
+   - `Low Clustering` Coefficient
+     - If you randomly select a node, it is possible that none of them can be neighboring...
+
+
+
 
 
 
