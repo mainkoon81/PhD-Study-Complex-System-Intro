@@ -74,6 +74,7 @@ Graph01.add_edge('B', 'C', weight=6, sign="-", relation="enemy")
 
 ### EX_1. Segregation Model 
 <img src="https://user-images.githubusercontent.com/31917400/70067714-9c781c00-15e6-11ea-8f84-866dbc2c09f4.jpg" />
+
 Thomas Schelling was asking, where does segregation come from, and how can we prevent it? **racism? unfair housing practices?** But we also have this intuition that `individuals` produce that phenomenon (Individuals have preferences!). What if we removed all those external forces? traditional explanations of where segregation comes from? Schelling asked the question about the fundamental origins of where segregation comes from. And what the kinds of mechanisms are there that can bring it about. **What the collective pattern of settlement would be in terms of a segregated/integrated society?** Asking counterfactual question!
  - focus on each individual!
  - If we were to remove some important factors such as history, job location, etc. would it still be possible to generate similar outcomes?
