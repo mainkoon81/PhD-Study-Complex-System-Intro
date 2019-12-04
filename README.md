@@ -117,7 +117,7 @@ Unlike simple contagions (where a mere single contact is sufficient for transmis
    - Network structures & Types of Contagions to spread
      - __ASK:__ What `threshold rules` define a contagion that can spread in a system? what's the **largest threshold** that contagion could spread? **How many neighbors each node has and how many of them should show the adaption** so that contagion could spread? This might differ by the Graph structure.
        - Lattice Graph - **Ring**
-         <img src="https://user-images.githubusercontent.com/31917400/70147991-41edc700-169d-11ea-9170-148697938c73.jpg" />
+         <img src="https://user-images.githubusercontent.com/31917400/70173967-e71f9400-16cb-11ea-92b5-4bd12089f08b.jpg" />
 
          - Arranged on a ring, each node has the same number of neighbors. 
          - __0.5 Threshold:__ Each agent will adopt if `half` of their all neighbors have already adopted. 
