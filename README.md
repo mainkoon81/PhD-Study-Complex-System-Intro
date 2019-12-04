@@ -119,7 +119,7 @@ Unlike simple contagions (where a mere single contact is sufficient for transmis
        - Lattice Graph - **Ring**
          <img src="https://user-images.githubusercontent.com/31917400/70173967-e71f9400-16cb-11ea-92b5-4bd12089f08b.jpg" />
 
-         - Arranged on a ring, each node has the same number of neighbors. 
+         - Arranged on a ring, each node has the `same` number of neighbors. 
          - __0.5 Threshold:__ Each agent will adopt if `half` of their all neighbors have already adopted. 
            - `Seed Node` and the very **`Next Node` outside of the Seed Neighborhood** shares half of their neighbors. So node 1's neighborhood has adopted, node 4 is satisfied because half of their neighborhoods have adopted, thus node 4 will adopt the contagion. 
            -  We can see the pattern unfold because whenever a **given neighborhood has adopted**, the **`first node` outside that neighborhood** will always adopt!
