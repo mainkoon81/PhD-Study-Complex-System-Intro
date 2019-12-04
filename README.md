@@ -90,7 +90,7 @@ What drives diffusion? The network science thinks about how the **structure of i
  - Spreading is governed by the shape of the network!!
  - voting activities can be an example of a thing that spreads through networks because people’s likelihood of participating increases as more of their `peers` participate and participation is determined not only by psychological dispositions, but by `peer` influences.
 
-> Simple Types of Network
+> ### Simple Types of Network
  - __Lattice Graph(Spatial Network)__ physical network?
    <img src="https://user-images.githubusercontent.com/31917400/70074574-e2d37800-15f2-11ea-972b-4da5f12a4855.jpg" />
    
@@ -107,11 +107,11 @@ What drives diffusion? The network science thinks about how the **structure of i
      - If you randomly select nodes, it is possible that none of them can be neighboring...
 
 ### EX_3. Complex Contagion Network Model
+Unlike simple contagions (where a mere single contact is sufficient for transmissions), complex contagions may require **multiple sources of contact(repeated exposure)** before thing is transmitted. For example, the transmission(adaption) may require a sort of a **sense of proof** about the credibility of that thing. 
 
-
-
-
-
+ - Threshold Model
+   - A certain NO of contact(adaption by neighbors) is required to trigger transmission(adaption)
+     <img src="https://user-images.githubusercontent.com/31917400/70147991-41edc700-169d-11ea-9170-148697938c73.jpg" />
 
 
 
