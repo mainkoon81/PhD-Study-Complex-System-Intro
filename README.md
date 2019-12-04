@@ -109,9 +109,32 @@ What drives diffusion? The network science thinks about how the **structure of i
 ### EX_3. Complex Contagion Network Model
 Unlike simple contagions (where a mere single contact is sufficient for transmissions), complex contagions may require **multiple sources of contact(repeated exposure)** before thing is transmitted. For example, the transmission(adaption) may require a sort of a **sense of proof** about the credibility of that thing. 
 
- - Threshold Model
-   - A certain NO of contact(adaption by neighbors) is required to trigger transmission(adaption)
+ - __Threshold Model__
+   - Contagion Threshold
+     - A certain NO of contact(adaption by neighbors) is required to trigger transmission(adaption).
      <img src="https://user-images.githubusercontent.com/31917400/70147991-41edc700-169d-11ea-9170-148697938c73.jpg" />
+
+   - Network structures & Types of Contagions to spread
+     - __ASK:__ What `threshold rules` define a contagion that can spread in a system? what's the **largest threshold** that contagion could spread? **How many neighbors each node has and how many of them should show the adaption** so that contagion could spread? This might differ by the Graph structure.
+       - Lattice Graph - **Ring**
+         <img src="https://user-images.githubusercontent.com/31917400/70147991-41edc700-169d-11ea-9170-148697938c73.jpg" />
+
+         - Arranged on a ring, each node has the same number of neighbors. 
+         - __0.5 Threshold:__ Each agent will adopt if `half` of their all neighbors have already adopted. 
+           - `Seed Node` and the very **`Next Node` outside of the Seed Neighborhood** shares half of their neighbors. So node 1's neighborhood has adopted, node 4 is satisfied because half of their neighborhoods have adopted, thus node 4 will adopt the contagion. 
+           -  We can see the pattern unfold because whenever a **given neighborhood has adopted**, the **`first node` outside that neighborhood** will always adopt!
+           -  This will be true in the ring lattice no matter how many neighbors each node has.
+           
+       - Lattice Graph - **Square**
+         <img src="https://user-images.githubusercontent.com/31917400/70147991-41edc700-169d-11ea-9170-148697938c73.jpg" />
+
+         - 
+         - 
+       - Random Graph
+         <img src="https://user-images.githubusercontent.com/31917400/70147991-41edc700-169d-11ea-9170-148697938c73.jpg" />
+
+         -
+         - 
 
 
 
