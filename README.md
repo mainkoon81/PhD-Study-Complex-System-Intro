@@ -81,7 +81,7 @@ Thomas Schelling was asking, where does segregation come from, and how can we pr
  - An agent-based model allows us to test whether a set of conditions or parameters are sufficient to produce a certain outcome.
  - This project models the behavior of two types of agents in a neighborhood. The <orange> agents and <blue> agents get along with one another. But each agent wants to make sure that it lives near some of “its own.” The simulation shows how these individual preferences ripple through the neighborhood, leading to large-scale patterns. 
  
-### EX_2. Network Model
+### EX_2. Simple Contagion Network Model
 What happens to the structure of this network? Starting from a Lattice(hardware 1D or 2D..) Network, **What happens in something (such as a rumor) is spreading on the network** as we rewire "short distance edges" to make them "long distance edges" (introducing "Random ties" to "Lattice ties" - Tying between nodes that does not share neighbors - Combining Lattice_Nwk + Random_Nwk)? It increases the speed of diffusion because the **`"long distance ties"`** provide **short-cuts** that reduce the average path length of a network! So the world get smaller and the diffusion get faster because of the short cuts.
 <img src="https://user-images.githubusercontent.com/31917400/70138652-9cc8f380-1688-11ea-8163-9bb1b86ec8b4.jpg" />
 
@@ -90,7 +90,7 @@ What drives diffusion? The network science thinks about how the **structure of i
  - Spreading is governed by the shape of the network!!
  - voting activities can be an example of a thing that spreads through networks because people’s likelihood of participating increases as more of their `peers` participate and participation is determined not only by psychological dispositions, but by `peer` influences.
 
-### > Types of Simple Network
+> Simple Types of Network
  - __Lattice Graph(Spatial Network)__ physical network?
    <img src="https://user-images.githubusercontent.com/31917400/70074574-e2d37800-15f2-11ea-972b-4da5f12a4855.jpg" />
    
@@ -106,7 +106,7 @@ What drives diffusion? The network science thinks about how the **structure of i
    - `Low Clustering` Coefficient
      - If you randomly select nodes, it is possible that none of them can be neighboring...
 
-
+### EX_3. Complex Contagion Network Model
 
 
 
