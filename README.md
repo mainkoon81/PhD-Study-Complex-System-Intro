@@ -116,7 +116,8 @@ Unlike simple contagions (where a mere single contact is sufficient for transmis
 
    - Network structures & Types of Contagions to spread
      - __ASK:__ What `threshold rules` define a contagion that can spread in a system? what's the **largest threshold** that contagion could spread? **How many neighbors each node has and how many of them should show the adaption** so that contagion could spread? This might differ by the Graph structure.
-       - Lattice Graph - **Ring**
+     - We can measure this quantity of overlapping neighborhoods by using what's called a `clustering coefficient`. In general, networks with the **higher clustering coefficient** will be more effective at spreading contagions. 
+       - > Lattice Graph - **Ring**
          <img src="https://user-images.githubusercontent.com/31917400/70173967-e71f9400-16cb-11ea-92b5-4bd12089f08b.jpg" />
 
          - Arranged on a ring, each node has the `same` number of neighbors. 
@@ -125,12 +126,14 @@ Unlike simple contagions (where a mere single contact is sufficient for transmis
            -  We can see the pattern unfold because whenever a **given neighborhood has adopted**, the **`first node` outside that neighborhood** will always adopt!
            -  This will be true in the ring lattice no matter how many neighbors each node has.
            
-       - Lattice Graph - **Square**
-         <img src="https://user-images.githubusercontent.com/31917400/70147991-41edc700-169d-11ea-9170-148697938c73.jpg" />
+       - > Lattice Graph - **Square**(Moore lattice)
+         <img src="https://user-images.githubusercontent.com/31917400/70234521-b9ccf780-1758-11ea-82ea-e246d09308ce.jpg" />
 
-         - 
-         - 
-       - Random Graph
+         - Arranged on a grid, the nodes are connected to the neighbors to the "left|right|above|below|4 corners".  
+         - One can see that the **`closest`** node to the **focal node** outside the seed neighborhood shares 3/8 of their neighbors with that **focal node**. And that means that from the outset, 3/8 of their neighbors have already adopted. 
+         - This tells us that, at most, a threshold of `3/8` can spread in a square lattice. Any threshold with a contagion less than or equal to `3/8` will spread easily and the contagion cascades through the network. 
+         - But the contagion with a threshold greater than `3/8` won't spread at all.
+       - > Random Graph
          <img src="https://user-images.githubusercontent.com/31917400/70147991-41edc700-169d-11ea-9170-148697938c73.jpg" />
 
          -
