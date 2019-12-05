@@ -134,10 +134,11 @@ Unlike simple contagions (where a mere single contact is sufficient for transmis
          - This tells us that, at most, a threshold of `3/8` can spread in a square lattice. Any threshold with a contagion less than or equal to `3/8` will spread easily and the contagion cascades through the network. 
          - But the contagion with a threshold greater than `3/8` won't spread at all.
        - > Random Graph
-         <img src="https://user-images.githubusercontent.com/31917400/70147991-41edc700-169d-11ea-9170-148697938c73.jpg" />
+         <img src="https://user-images.githubusercontent.com/31917400/70246964-77afb000-1770-11ea-923e-3274d927e2b4.jpg" />
 
-         -
-         - 
+         - Lattice have a very regular pattern where each node is connected to adjacent nodes, in Random Networks, nodes are just randomly connected. In very large Random Net, if zoom in on it and look at each neighborhood, one can see a **tree-like property**. 
+         - In Lattice, overlapping connections allowe complex contagions to spread easily because they provide for social reinforcement. In Random Net, since there are no overlapping neighborhoods, and there's no opportunity for social reinforcement, **only simple contagions can spread**.
+         - None of the nodes(agents) have overlapping neighbor????? The existence of overlapping neighborhoods is crucial to allow complex contagions to spread through a network.
 
 
 
