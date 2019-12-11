@@ -139,14 +139,17 @@ Unlike simple contagions (where a mere single contact is sufficient for transmis
          - In Lattice, overlapping connections allowe complex contagions to spread easily because they provide for social reinforcement. In Random Net, since there are no overlapping neighborhoods/structures, and there's no opportunity for social reinforcement, **only simple contagions can spread**.
          - None of the nodes(agents) have overlapping neighbor????? The existence of `overlapping neighborhoods` is crucial to allow complex contagions to spread through a network.
 
-### In the mixed network(Combining Lattice_Nwk + Random_Nwk), `Simple contagions` spread faster, but `Complex contagions` may not spread at all..
+> ### In the mixed network(Combining Lattice_Nwk + Random_Nwk), `Simple contagions` spread faster, but `Complex contagions` may not spread at all..
+ - What if there's a distribution of thresholds? Or what if **thresholds are probabilistic** so people can change their decisions over time? 
+ - Moreover, instead of just looking at networks where everyone has the same number of ties and ties are rewired, what if **there are hubs** in the network? 
+ - Some nodes are extremely well connected and other have only a few ties. What if ties have different density? 
+ 
+> ### How would all of these differences affect the dynamics? 
+ - It turns out that the **threshold heterogeneity** actually makes the results stronger. 
+ - It turns out that the **hub** actually makes it harder to spread **complex contagions**. 
+ - It turns out adding more ties to the network, for much of the same reason as hubs, also make it harder to spread **complex contagions**.
 
-What if there's a distribution of thresholds? Or what if **thresholds are probabilistic** so people can change their decisions over time? Moreover, instead of just looking at networks where everyone has the same number of ties and ties are rewired, what if **there are hubs** in the network? Some nodes are extremely well connected and other have only a few ties. What if ties have different density? How would all of these differences affect the dynamics? 
-
-It turns out that the **threshold heterogeneity** actually makes the results stronger. 
-It turns out that the **hub** actually makes it harder to spread **complex contagions**. 
-It turns out adding more ties to the network, for much of the same reason as hubs, also make it harder to spread **complex contagions**.
-
+### EX_4. Innovation Network Model
 
 
 
