@@ -150,9 +150,21 @@ Unlike simple contagions (where a mere single contact is sufficient for transmis
  - It turns out adding more ties to the network, for much of the same reason as hubs, also make it harder to spread **complex contagions**.
 
 ### EX_4. Innovation Network Model
+> Q. What's the best "communication network" structure to promote innovation?
 
+In **Genetic Evolution**, every new organism is very similar to its parents, with only a few small changes known as mutations. What is important about the process is that a mutation never changes an entirely organism at once. Rather, it works with the machinery that already exists and just changes one or two things at a time(it's not feasible to change every feature at once).  
 
+**NK space model** is for complex problem solving, inspired by evolutionary models of genetic combination.
+ - The N in the NK space refers to the `number of features`.
+ - The K in the NK space refers to the `level of interdependency` and `counts` how many other features each feature **interacts with**.
+   - When k = 1, every feature interacts only with itself and every feature is therefore independent.
+   - When K > 1, ...damn difficult. The only way to get any further improvement after you've reach this point would be to `change many features at once`. In other words, we would need to jump to an entirely different part of the solution landscape in order to find anything better. But making big changes, changing a lot of features at once, is really risky. 
+<img src="https://user-images.githubusercontent.com/31917400/70629499-ffd6ff00-1c21-11ea-94ae-283a4d9d8c52.jpg" />
 
+ - Change one feature at a time.
+   - but features are not independent....if you change one feature, that can impact how all the other features function(This interdependence between features is why complex problem solving is hard). 
+ - If the change improves the design, then keep it.
+ - Otherwise, revert to old design.
 
 
 
