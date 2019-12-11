@@ -158,13 +158,14 @@ In **Genetic Evolution**, every new organism is very similar to its parents, wit
  - The N in the NK space refers to the `number of features`.
  - The K in the NK space refers to the `level of interdependency` and `counts` how many other features each feature **interacts with**.
    - When k = 1, every feature interacts only with itself and every feature is therefore independent.
-   - When K > 1, ...damn difficult. The only way to get any further improvement after you've reach this point would be to `change many features at once`. In other words, we would need to jump to an entirely different part of the solution landscape in order to find anything better. But making big changes, changing a lot of features at once, is really risky. 
-<img src="https://user-images.githubusercontent.com/31917400/70629499-ffd6ff00-1c21-11ea-94ae-283a4d9d8c52.jpg" />
+     - Change one feature at a time.
+     - If the change improves the design, then keep it.
+     - Otherwise, revert to old design.
+   - When K > 1, ...damn difficult. In many cases, features are not independent....if you change one feature, that can impact how all the other features function(This interdependence between features is why complex problem solving is hard). The only way to get any further improvement after you've reach this point would be to `change many features at once`. In other words, we would need to jump to an entirely different part of the solution landscape in order to find anything better. But making big changes, `changing a lot of features at once, is really risky`. 
+<img src="https://user-images.githubusercontent.com/31917400/70630254-34978600-1c23-11ea-9dff-b6fe7425cb16.jpg" />
 
- - Change one feature at a time.
-   - but features are not independent....if you change one feature, that can impact how all the other features function(This interdependence between features is why complex problem solving is hard). 
- - If the change improves the design, then keep it.
- - Otherwise, revert to old design.
+> ### Try Agent Based Model!
+
 
 
 
