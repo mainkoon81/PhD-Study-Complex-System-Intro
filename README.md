@@ -54,9 +54,20 @@ Graph01.add_edge('B', 'C', weight=6, sign="-", relation="enemy")
 
 
 ## Complex System
-Complex systems are networks of agent. They made of many heterogeneous and diverse agents or agent parts that interact in various ways. An agent can actually be a complex system on its own and it contain properties. Agents are made of other agent or made from agent parts; however, Complex systems are difficult to define because they contain many irregular properties? 
+Complex systems are networks of agent. They made of many heterogeneous and diverse agents or agent parts that interact in various ways. An agent can actually be a complex system on its own and it contain properties, that is to say, agents can be made of other agent or made from agent parts; however, Complex systems are difficult to define because they contain many irregular properties. 
 
-
+> Why Network?
+It's a setting. Things like trades good and services, most markets are actually not centralized but occur between different parties and it's bilateral relationships. Sharing a favor, risk, transmission of viruses, opinion, job hunting information..often through somebody you knew.. how do you choose who you vote for? How do you make decisions about products? A lot of time you're talking to different individuals, what did they hear? how did you hear about your information? Political alliances can be represented in these networks, trade alliances, there's all kinds of, of different settings where **network structure is very important**. 
+ - The networks actually influence the behavior. So if we look at crime, employment, people's investment in human capital, education, how they vote, etc. are embedded in these settings and are influenced by the network structure. Networks come in different sizes and shapes, what they look like is going to be very important in understanding what the outcomes are. 
+ - What to ask?
+   - What we know about the networks?
+     - their formation from different perspectives?
+     - What's the relationship between `how dense a network is` and `what the outcomes are`?
+   - Why Modeling?
+     - Predict from the sample
+     - Statistical Estimation
+ - Before start 
+     
 
 
 
