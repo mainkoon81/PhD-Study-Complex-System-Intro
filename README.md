@@ -66,8 +66,9 @@ It's a setting. Things like trades good and services, most markets are actually 
    - Why Modeling?
      - Predict from the sample
      - Statistical Estimation
- - Before start 
-     
+> Static Network
+<img src="https://user-images.githubusercontent.com/31917400/70853188-90bc0d80-1ea2-11ea-9ddd-6a773829911b.jpg" />
+
 
 
 
