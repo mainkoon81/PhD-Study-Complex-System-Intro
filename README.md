@@ -53,7 +53,7 @@ Graph01.add_edge('B', 'C', weight=6, sign="-", relation="enemy")
 
 
 
-## Complex System
+## Networks in Complex System
 Complex systems are networks of agent. They made of many heterogeneous and diverse agents or agent parts that interact in various ways. An agent can actually be a complex system on its own and it contain properties, that is to say, agents can be made of other agent or made from agent parts; however, Complex systems are difficult to define because they contain many irregular properties. 
 
 > Why Network?
@@ -66,9 +66,10 @@ It's a setting. Things like trades good and services, most markets are actually 
    - Why Modeling?
      - Predict from the sample
      - Statistical Estimation
-> Static Network
+### Static Network
 <img src="https://user-images.githubusercontent.com/31917400/70853188-90bc0d80-1ea2-11ea-9ddd-6a773829911b.jpg" />
 
+### How to simplify complexity?
 
 
 
