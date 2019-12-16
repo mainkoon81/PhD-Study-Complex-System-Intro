@@ -97,7 +97,7 @@ How close are nodes? How fast will information spread? How to see the diameter?
 ### Tree
 <img src="https://user-images.githubusercontent.com/31917400/70918275-c550d600-2016-11ea-88fe-d92ad28e455c.jpg" />
 
-### Random Graph ???
+### Random Network ???
 <img src="https://user-images.githubusercontent.com/31917400/70924861-2cc05300-2022-11ea-8eaf-1a2284e2e9bd.jpg" />
 
 ### >Network Property: 2.Degree Distribution
@@ -110,6 +110,36 @@ How close are nodes? How fast will information spread? How to see the diameter?
 Local property?? 
  - begin to think about how dense is a network at a local level? 
  <img src="https://user-images.githubusercontent.com/31917400/70930637-8d08c200-202d-11ea-964b-f0010705a9d6.jpg" />
+
+### >Homophily
+
+
+
+
+
+
+
+
+### More about Random Network
+
+
+### Formation
+
+
+### Diffusion
+
+
+### Learning
+
+
+### Games
+
+
+ 
+
+
+
+
 
 
 ---------------------------------------------------------------------------------------------------------------
