@@ -75,7 +75,7 @@ It's a setting. Things like trades good and services, most markets are actually 
 ### Static Network
 <img src="https://user-images.githubusercontent.com/31917400/70853188-90bc0d80-1ea2-11ea-9ddd-6a773829911b.jpg" />
 
-### Diameter(= AVG path length?) and Network Property
+### >Network Property: 1.Diameter(= AVG path length?)  
 How close are nodes? How fast will information spread? How to see the diameter? 
  - `Diameter` refers to the largest shortest path!
    - which node couple in love takes the longest path?
@@ -100,12 +100,15 @@ How close are nodes? How fast will information spread? How to see the diameter?
 ### Random Graph ???
 <img src="https://user-images.githubusercontent.com/31917400/70924861-2cc05300-2022-11ea-8eaf-1a2284e2e9bd.jpg" />
 
-### Degree Distribution
+### >Network Property: 2.Degree Distribution
 <img src="https://user-images.githubusercontent.com/31917400/70927222-80cd3680-2026-11ea-856e-0dd9a18dded8.jpg" />
 
-> Fat Tail: 
- - "Fat Tails" means the observe network usually have too many nodes with too high or too low degrees.
- <img src="https://user-images.githubusercontent.com/31917400/70927534-0c46c780-2027-11ea-8b89-644af00093eb.jpg" />
+"Fat Tails" means the observe network usually have too many nodes with too high or too low degrees.
+  <img src="https://user-images.githubusercontent.com/31917400/70927534-0c46c780-2027-11ea-8b89-644af00093eb.jpg" />
+
+### >Network Property: 3.Clustering
+
+
 
 ---------------------------------------------------------------------------------------------------------------
 ## How do `individual interactions` aggregate to produce `collective behavior`? and how the collectives behave as an organic whole?
