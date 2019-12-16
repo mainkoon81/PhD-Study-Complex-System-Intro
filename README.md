@@ -94,13 +94,14 @@ How close are nodes? How fast will information spread? How to see the diameter?
 `G(n, p)`: In the `n`nodes network, **each link is formed independently** with some probability `p`.
 <img src="https://user-images.githubusercontent.com/31917400/70911975-e3b0d480-200a-11ea-8aff-7dba723cb6b6.jpg" />
 
-Tree
+### Tree
 <img src="https://user-images.githubusercontent.com/31917400/70918275-c550d600-2016-11ea-88fe-d92ad28e455c.jpg" />
 
+### Random Graph
+<img src="https://user-images.githubusercontent.com/31917400/70924861-2cc05300-2022-11ea-8eaf-1a2284e2e9bd.jpg" />
 
-
-
-
+### Degree Distribution
+<img src="https://user-images.githubusercontent.com/31917400/70924861-2cc05300-2022-11ea-8eaf-1a2284e2e9bd.jpg" />
 
 
 
