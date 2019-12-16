@@ -75,7 +75,7 @@ It's a setting. Things like trades good and services, most markets are actually 
 ### Static Network
 <img src="https://user-images.githubusercontent.com/31917400/70853188-90bc0d80-1ea2-11ea-9ddd-6a773829911b.jpg" />
 
-### Diameter(AVG path length) and Network Property
+### Diameter(= AVG path length?) and Network Property
 How close are nodes? How fast will information spread? How to see the diameter? 
  - `Diameter` refers to the largest shortest path!
    - which node couple in love takes the longest path?
@@ -89,11 +89,13 @@ How close are nodes? How fast will information spread? How to see the diameter?
      - `degree(n) / n` ~ `0` of course!
    - the `degree(n)` should be at least greater than `C x log(n)`
      - `degree(n) > C*log(n)`
-   - Then for `large n`, the diameter is approximately proportional to `log(n) / log(degree(n))`
+   - Then for `large n`, the **diameter** is approximately proportional to **`log(n) / log(degree(n))`**
 
 `G(n, p)`: In the `n`nodes network, **each link is formed independently** with some probability `p`.
 <img src="https://user-images.githubusercontent.com/31917400/70911975-e3b0d480-200a-11ea-8aff-7dba723cb6b6.jpg" />
 
+Tree
+<img src="https://user-images.githubusercontent.com/31917400/70918275-c550d600-2016-11ea-88fe-d92ad28e455c.jpg" />
 
 
 
