@@ -107,7 +107,9 @@ How close are nodes? How fast will information spread? How to see the diameter?
   <img src="https://user-images.githubusercontent.com/31917400/70927534-0c46c780-2027-11ea-8b89-644af00093eb.jpg" />
 
 ### >Network Property: 3.Clustering
-
+Local property?? 
+ - begin to think about how dense is a network at a local level? 
+ <img src="https://user-images.githubusercontent.com/31917400/70930637-8d08c200-202d-11ea-964b-f0010705a9d6.jpg" />
 
 
 ---------------------------------------------------------------------------------------------------------------
