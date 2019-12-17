@@ -124,13 +124,16 @@ Local property??
 ### >Network Property: 4.Centrality
 Positioning the nodes in the Network? Which node should be on the center in the network? 
  - __degree__ (how many connected?)
-   - Degree centrality = `degree / (n-1)`.
+   - Degree based centrality = `degree / (n-1)`.
  - __close-ness__ (how closely connected?)
-   - Closeness centrality = `(n-1) / ΣI(i,j)` w.r.to `j` where `I(i,j)` means the shortest path length b/w node i and j=1,2,3,... 
+   - Closeness based centrality = `(n-1) / ΣI(i,j)` w.r.to `j` where `I(i,j)` means the shortest path length b/w node i and j=1,2,3,... 
  - __between-ness__ (how much contributing to the others connections?)
-   - Betweenness centrality = 
- - __Eigenvectors__ 
-   - 
+   - what's the fraction of shortest paths that `k` lies on between other node? In order to build a path, each node need to go through somebody(a third party which is our protagonist`k`) that they were connected with. It measures how powerful the `k` is as an intermediary connecting other families on pairs between them.
+   - Betweenness based centrality = `Σ #(i,j) that "k" lies on / #(i,j)` / `(n-1)(n-2)/2`
+ - __Eigenvectors__ (your importance comes from being connected to other important Nodes)
+   - the centrality is proportional to the sum of the neighbor centralities.
+   - Eigenvector based centrality = `C * Cen_vector_i = Node matrix * Cen_vector_j`
+<img src="https://user-images.githubusercontent.com/31917400/70996412-9c8a1880-20ca-11ea-9163-c6d164117f59.jpg" />
 
 
 
