@@ -56,11 +56,15 @@ Graph01.add_edge('B', 'C', weight=6, sign="-", relation="enemy")
 ## Networks in Complex System
 Complex systems are networks of agent. They made of many heterogeneous and diverse agents or agent parts that interact in various ways. An agent can actually be a complex system on its own and it contain properties, that is to say, agents can be made of other agent or made from agent parts; however, Complex systems are difficult to define because they contain many irregular properties. 
 
-### How to simplify complexity?
+### How to simplify complexity in the Network?
  - Global Pattern?
+   - Degree Distribution, Diameter, etc.
  - Segregation Pattern?
+   - ...
  - Local Pattern?
- - Positions: Centrality? Neighborhood? etc.  
+   - Clustering, etc.
+ - Positions in the Network?
+   - Centrality, Neighborhood, etc.  
  
 > Why Network?
 It's a setting. Things like trades good and services, most markets are actually not centralized but occur between different parties and it's bilateral relationships. Sharing a favor, risk, transmission of viruses, opinion, job hunting information..often through somebody you knew.. how do you choose who you vote for? How do you make decisions about products? A lot of time you're talking to different individuals, what did they hear? how did you hear about your information? Political alliances can be represented in these networks, trade alliances, there's all kinds of, of different settings where **network structure is very important**. 
@@ -75,14 +79,14 @@ It's a setting. Things like trades good and services, most markets are actually 
 
 <img src="https://user-images.githubusercontent.com/31917400/70949674-51ceb900-2056-11ea-8f92-2099b1a3f1fe.jpg" />
 
-## Part 1. Backgrounds and Fundamentals
+## [Part 1]: Background and Fundamentals
 Definitions and Characteristics of Networks
 
 ### Static Network
 <img src="https://user-images.githubusercontent.com/31917400/70853188-90bc0d80-1ea2-11ea-9ddd-6a773829911b.jpg" />
 
 ### >Network Property: 1.Diameter(= AVG path length?)  
-How close are nodes? How fast will information spread? How to see the diameter? 
+Global property? How close are nodes? How fast will information spread? 
  - `Diameter` refers to the largest shortest path!
    - which node couple in love takes the longest path?
    - Diameter can be prone to outliers. 
@@ -117,8 +121,16 @@ Local property??
  - begin to think about how dense is a network at a local level? 
  <img src="https://user-images.githubusercontent.com/31917400/70930637-8d08c200-202d-11ea-964b-f0010705a9d6.jpg" />
 
-### >Homophily
-
+### >Network Property: 4.Centrality
+Positioning the nodes in the Network? Which node should be on the center in the network? 
+ - __degree__ (how many connected?)
+   - Degree centrality = `degree / (n-1)`.
+ - __close-ness__ (how closely connected?)
+   - Closeness centrality = `(n-1) / ΣI(i,j)` w.r.to `j` where `I(i,j)` means the shortest path length b/w node i and j=1,2,3,... 
+ - __between-ness__ (how much contributing to the others connections?)
+   - Betweenness centrality = 
+ - __Eigenvectors__ 
+   - 
 
 
 
