@@ -80,7 +80,7 @@ It's a setting. Things like trades good and services, most markets are actually 
 <img src="https://user-images.githubusercontent.com/31917400/70949674-51ceb900-2056-11ea-8f92-2099b1a3f1fe.jpg" />
 
 ## [Part 1]: Background and Fundamentals
-Definitions and Characteristics of Networks
+Definitions and Characteristics of Networks?
 
 ### Static Network
 <img src="https://user-images.githubusercontent.com/31917400/70853188-90bc0d80-1ea2-11ea-9ddd-6a773829911b.jpg" />
